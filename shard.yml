@@ -1,0 +1,13 @@
+name: cr-code-playground
+version: 0.1.0
+
+authors:
+  - Alexander Balyshyn <balyszyn@gmail.com>
+
+targets:
+  cr-code-playground:
+    main: src/cr-code-playground.cr
+
+crystal: 0.31.1
+
+license: MIT
