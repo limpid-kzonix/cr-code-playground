@@ -1,6 +1,4 @@
-# TODO: Write documentation for `Cr::Code::Playground`
 require "http/server"
-
 
 port = 9190
 
