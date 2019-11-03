@@ -3,6 +3,7 @@ module ItemSize
     items.size
   end
 end
+
 # TODO: investigate how to add docs for code
 class Items
   include ItemSize

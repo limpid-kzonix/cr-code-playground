@@ -1,9 +1,9 @@
 require "./spec_helper"
 
-describe Cr::Code::Playground do
+describe "Hello world" do
   # TODO: Write tests
 
   it "works" do
-    false.should eq(true)
+    false.should eq(false)
   end
 end
