@@ -7,8 +7,8 @@ authors:
 targets:
   cr-code-playground:
     main: src/cr-code-playground.cr
-  main:
-    main: src/main.cr
+  items:
+    main: src/items.cr
 
 crystal: 0.31.1
 
