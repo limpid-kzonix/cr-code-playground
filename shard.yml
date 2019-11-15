@@ -5,10 +5,8 @@ authors:
   - Alexander Balyshyn <balyszyn@gmail.com>
 
 targets:
-  cr-code-playground:
-    main: src/cr-code-playground.cr
-  items:
-    main: src/items.cr
+  starter:
+    main: src/main.cr
 
 crystal: 0.31.1
 
